@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title id="sharavathi_title_tag">Sharavathi Valley Biosphere Reserve – Karnataka, India</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <style>
+    * { box-sizing: border-box; margin:0; padding:0; }
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      line-height:1.7;
+      color:#333;
+      background: linear-gradient(-45deg, #f0f4c3, #e1f5fe, #ffe0b2, #f3e5f5);
+      background-size:400% 400%; animation:gradient 20s ease infinite;
+      padding:20px;
+    }
+    @keyframes gradient {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+    }
+    .container {
+      max-width:900px;
+      margin:auto;
+      padding:30px;
+      background:#ffffffdd;
+      border-radius:12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    }
+    h1 { font-size:2.8rem; color:#558b2f; text-align:center; margin-bottom:10px; }
+    h2 {
+      color:#33691e;
+      margin-top:2rem;
+      border-left:5px solid #8bc34a;
+      padding-left:12px;
+    }
+    .highlight {
+      background:#f1f8e9;
+      border-left:6px solid #7cb342;
+      padding:12px 16px;
+      border-radius:6px;
+      font-size:1.05rem;
+      margin-bottom:1rem;
+    }
+    .gallery {
+      display:grid;
+      grid-template-columns:repeat(auto-fit, minmax(250px,1fr));
+      gap:16px;
+      margin-top:20px;
+    }
+    .gallery img {
+      width:100%;
+      border-radius:10px;
+      box-shadow:0 6px 16px rgba(0,0,0,0.15);
+      transition:transform .3s,box-shadow .3s;
+    }
+    .gallery img:hover {
+      transform:scale(1.05);
+      box-shadow:0 10px 25px rgba(0,0,0,0.2);
+    }
+    .caption {
+      text-align:center;
+      font-size:0.95rem;
+      color:#444;
+      margin-top:6px;
+    }
+    ul {padding-left:1.5rem; margin-top:0.5rem;}
+    ul li {margin-bottom:10px;}
+    footer {
+      text-align:center;
+      margin-top:40px;
+      font-style:italic;
+      color:#555;
+    }
+    @media(max-width:600px){
+      h1{font-size:2rem;}
+      h2{font-size:1.2rem;}
+      .container{padding:20px;}
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 id="sharavathi_title">Sharavathi Valley Biosphere Reserve</h1>
+
+    <div class="highlight" id="sharavathi_location">
+      <strong>Location & Area:</strong> Located in the central Western Ghats, Shivamogga district, Karnataka; area ~905.6 km²; proposed as biosphere reserve in 2019.
+    </div>
+
+    <h2 id="sharavathi_geo_heading">Geography & Habitat</h2>
+    <p id="sharavathi_geo_text">
+      Sharavathi Valley includes riverine ecosystems, evergreen and semi-evergreen forests, and tropical rainforests. It is centered around the Sharavathi River and Jog Falls—the second-highest plunge waterfall in India.
+    </p>
+
+    <h2 id="sharavathi_flora_heading">Flora & Fauna</h2>
+    <ul>
+      <li id="sharavathi_fauna"><strong>Fauna:</strong> Lion-tailed macaque, tiger, leopard, sloth bear, wild boar, Indian giant squirrel, Malabar civet, king cobra, great Indian hornbill.</li>
+      <li id="sharavathi_flora"><strong>Flora:</strong> Dipterocarp trees, Myristica swamps, medicinal herbs, wild pepper, native orchids.</li>
+    </ul>
+
+    <h2 id="sharavathi_activities_heading">Activities</h2>
+    <ul>
+      <li id="sharavathi_activity1">Trekking to Jog Falls, Kanoor Fort, and other trails</li>
+      <li id="sharavathi_activity2">Wildlife and birdwatching tours in Muppane and Nagodi ranges</li>
+      <li id="sharavathi_activity3">Nature education and eco-tourism camps</li>
+    </ul>
+
+    <h2 id="sharavathi_access_heading">Accessibility & Permits</h2>
+    <p id="sharavathi_access_text">
+      Nearest town: Sagar (30 km). Accessible via Shivamogga, Honnavar, and Mangalore. Permits may be required for restricted core zones and night stays near Jog Falls.
+    </p>
+
+    <h2 id="sharavathi_significance_heading">Significance</h2>
+    <p id="sharavathi_significance_text">
+      The region is ecologically sensitive and forms a part of the Western Ghats biodiversity hotspot. It safeguards many endemic species and supports hydroelectric power generation at Linganamakki Dam.
+    </p>
+
+    <h2 id="sharavathi_gallery_heading">Gallery</h2>
+    <div class="gallery">
+      <div>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Jogfalls.jpg" alt="Jog Falls">
+        <div class="caption" id="sharavathi_caption1">Jog Falls – the crown jewel of Sharavathi</div>
+      </div>
+      <div>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Lion_Tailed_Macaque_4.jpg" alt="Lion-tailed Macaque">
+        <div class="caption" id="sharavathi_caption2">Lion-tailed Macaque – endangered primate</div>
+      </div>
+      <div>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Sharavathi_River_near_Kargal.jpg" alt="Sharavathi River near Kargal">
+        <div class="caption" id="sharavathi_caption3">Sharavathi River near Kargal</div>
+      </div>
+    </div>
+
+    <footer id="sharavathi_footer">Content compiled from Wikipedia & reputable sources.</footer>
+  </div>
+
+  <script src="/script/script.js"></script>
+</body>
+</html>

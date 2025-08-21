@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title id="abr_title">Agasthyamalai Biosphere Reserve – India</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <script src="/script/script.js" defer></script>
+  <style>
+    * { box-sizing: border-box; margin:0; padding:0; }
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      line-height:1.7;
+      color:#333;
+      background: linear-gradient(-45deg, #c8e6c9, #b2ebf2, #fff9c4, #d1c4e9);
+      background-size:400% 400%; animation:gradient 20s ease infinite;
+      padding:20px;
+    }
+    @keyframes gradient {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+    }
+    .container {
+      max-width:900px;
+      margin:auto;
+      padding:30px;
+      background:#ffffffdd;
+      border-radius:12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    }
+    h1 { font-size:2.8rem; color:#2e7d32; text-align:center; margin-bottom:10px; }
+    h2 {
+      color:#1b5e20;
+      margin-top:2rem;
+      border-left:5px solid #66bb6a;
+      padding-left:12px;
+    }
+    .highlight {
+      background:#e8f5e9;
+      border-left:6px solid #43a047;
+      padding:12px 16px;
+      border-radius:6px;
+      font-size:1.05rem;
+      margin-bottom:1rem;
+    }
+    .gallery {
+      display:grid;
+      grid-template-columns:repeat(auto-fit, minmax(250px,1fr));
+      gap:16px;
+      margin-top:20px;
+    }
+    .gallery img {
+      width:100%;
+      border-radius:10px;
+      box-shadow:0 6px 16px rgba(0,0,0,0.15);
+      transition:transform .3s,box-shadow .3s;
+    }
+    .gallery img:hover {
+      transform:scale(1.05);
+      box-shadow:0 10px 25px rgba(0,0,0,0.2);
+    }
+    .caption {
+      text-align:center;
+      font-size:0.95rem;
+      color:#444;
+      margin-top:6px;
+    }
+    ul {padding-left:1.5rem; margin-top:0.5rem;}
+    ul li {margin-bottom:10px;}
+    footer {
+      text-align:center;
+      margin-top:40px;
+      font-style:italic;
+      color:#555;
+    }
+    @media(max-width:600px){
+      h1{font-size:2rem;}
+      h2{font-size:1.2rem;}
+      .container{padding:20px;}
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 id="abr_h1">Agasthyamalai Biosphere Reserve</h1>
+    <div class="highlight" id="abr_location">
+      <strong>Location & Area:</strong> Spread across Kerala and Tamil Nadu in the Western Ghats; covers ~3,500 km², with diverse forests and mountain ecosystems.
+    </div>
+
+    <h2 id="abr_geo_heading">Geography & Habitat</h2>
+    <p id="abr_geo_text">This reserve is part of the southern Western Ghats, home to tropical evergreen forests, montane shola grasslands, and important watersheds. It includes Peppara, Neyyar, and Shendurney Wildlife Sanctuaries, and Kalakkad-Mundanthurai Tiger Reserve.</p>
+
+    <h2 id="abr_flora_heading">Flora & Fauna</h2>
+    <ul>
+      <li id="abr_fauna"><strong>Fauna:</strong> Lion-tailed macaque, Nilgiri tahr, Indian elephant, tiger, leopard, Malabar civet, and hornbills.</li>
+      <li id="abr_flora"><strong>Flora:</strong> Rich in endemic species like Agasthya tree fern, orchids, rare medicinal plants, and tropical rainforests.</li>
+    </ul>
+
+    <h2 id="abr_activities_heading">Activities</h2>
+    <ul>
+      <li id="abr_act1">Trekking to Agasthyakoodam peak</li>
+      <li id="abr_act2">Birdwatching and wildlife safaris</li>
+      <li id="abr_act3">Exploring Neyyar and Peppara sanctuaries</li>
+    </ul>
+
+    <h2 id="abr_access_heading">Accessibility & Permits</h2>
+    <p id="abr_access_text">Nearest city: Thiruvananthapuram. Access via road and trekking trails. Special permits are required for trekking and entering certain core areas.</p>
+
+    <h2 id="abr_significance_heading">Significance</h2>
+    <p id="abr_significance_text">A UNESCO Biosphere Reserve, it is critical for biodiversity conservation, protecting endemic species, and preserving traditional tribal cultures.</p>
+
+    <h2 id="abr_gallery_heading">Gallery</h2>
+    <div class="gallery">
+      <div>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Agasthyakoodam_peak.jpg" alt="Agasthyakoodam Peak">
+        <div class="caption" id="abr_img1_caption">Agasthyakoodam Peak in Agasthyamalai</div>
+      </div>
+      <div>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Lion-tailed_Macaque_in_Western_Ghats.jpg" alt="Lion-tailed Macaque">
+        <div class="caption" id="abr_img2_caption">Lion-tailed Macaque – endemic to the Western Ghats</div>
+      </div>
+      <div>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Western_Ghats_Shola_forest_and_grassland.jpg" alt="Shola Forests">
+        <div class="caption" id="abr_img3_caption">Shola forests and grasslands in the reserve</div>
+      </div>
+    </div>
+
+    <footer id="abr_footer">Content compiled from Wikipedia & other credible sources.</footer>
+  </div>
+</body>
+</html>

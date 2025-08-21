@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title id="simlipal_title">Simlipal National Park – Odisha, India</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <script src="/script/script.js" defer></script>
+  <style>
+    * { box-sizing: border-box; margin:0; padding:0; }
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      line-height:1.7;
+      color:#333;
+      background: linear-gradient(-45deg, #f0f4c3, #e1f5fe, #ffe0b2, #f3e5f5);
+      background-size:400% 400%; animation:gradient 20s ease infinite;
+      padding:20px;
+    }
+    @keyframes gradient {
+      0%{background-position:0% 50%}
+      50%{background-position:100% 50%}
+      100%{background-position:0% 50%}
+    }
+    .container {
+      max-width:900px;
+      margin:auto;
+      padding:30px;
+      background:#ffffffdd;
+      border-radius:12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    }
+    h1 { font-size:2.8rem; color:#558b2f; text-align:center; margin-bottom:10px; }
+    h2 {
+      color:#33691e;
+      margin-top:2rem;
+      border-left:5px solid #8bc34a;
+      padding-left:12px;
+    }
+    .highlight {
+      background:#f1f8e9;
+      border-left:6px solid #7cb342;
+      padding:12px 16px;
+      border-radius:6px;
+      font-size:1.05rem;
+      margin-bottom:1rem;
+    }
+    .gallery {
+      display:grid;
+      grid-template-columns:repeat(auto-fit, minmax(250px,1fr));
+      gap:16px;
+      margin-top:20px;
+    }
+    .gallery img {
+      width:100%;
+      border-radius:10px;
+      box-shadow:0 6px 16px rgba(0,0,0,0.15);
+      transition:transform .3s,box-shadow .3s;
+    }
+    .gallery img:hover {
+      transform:scale(1.05);
+      box-shadow:0 10px 25px rgba(0,0,0,0.2);
+    }
+    .caption {
+      text-align:center;
+      font-size:0.95rem;
+      color:#444;
+      margin-top:6px;
+    }
+    ul {padding-left:1.5rem; margin-top:0.5rem;}
+    ul li {margin-bottom:10px;}
+    footer {
+      text-align:center;
+      margin-top:40px;
+      font-style:italic;
+      color:#555;
+    }
+    @media(max-width:600px){
+      h1{font-size:2rem;}
+      h2{font-size:1.2rem;}
+      .container{padding:20px;}
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 id="simlipal_heading">Simlipal National Park</h1>
+    <div class="highlight" id="simlipal_location">
+      <strong>Location & Area:</strong> Mayurbhanj district, Odisha, India; spans around 2,750 km² with a core zone of ~1,195 km² 
+    </div>
+
+    <h2 id="simlipal_overview_title">Overview & History</h2>
+    <p id="simlipal_overview_text">Simlipal, named for its abundance of red silk-cotton (Simuli) trees, was notified as a wildlife sanctuary in 1979 and declared a national park and tiger reserve by 1980–86. It forms part of the Mayurbhanj Elephant Reserve and was added to UNESCO’s Biosphere Reserves in 2009.</p>
+
+    <h2 id="simlipal_topography_title">Topography & Landscape</h2>
+    <p id="simlipal_topography_text">Situated on an Eastern Ghats plateau at ~900 m elevation. Major peaks include Khariburu (1,178 m) and Meghasani (1,158 m). The park features two famous waterfalls: Barehipani (399 m, two-tier, India’s second highest) and Joranda (~150 m).</p>
+
+    <h2 id="simlipal_flora_fauna_title">Flora & Fauna</h2>
+    <ul id="simlipal_flora_fauna_list">
+      <li><strong>Fauna:</strong> Bengal tiger, Asian elephant, gaur, chausingha, leopards, sambar deer, and diverse birdlife including scarlet minivet, hornbills.</li>
+      <li><strong>Flora:</strong> Mixed evergreen and deciduous forests dominated by sal, Semul (red silk-cotton), orchids, grasslands and riverside vegetation.</li>
+    </ul>
+
+    <h2 id="simlipal_activities_title">Visitor Info & Activities</h2>
+    <ul id="simlipal_activities_list">
+      <li>Open from 1 November to 15 June. Closed during monsoon rains.</li>
+      <li>Access via <em>Kaliani Gate (Jashipur)</em> or <em>Pithabata Gate (Baripada)</em>. Entry passes, safari and stay booked online or at gates.</li>
+      <li>Popular activities: jungle safaris, birdwatching, waterfall treks (to Barehipani & Joranda), and camping/nature stays at Gurguria, Barehipani, etc.</li>
+    </ul>
+
+    <h2 id="simlipal_significance_title">Significance</h2>
+    <p id="simlipal_significance_text">A key conservation zone in the Eastern Ghats, Simlipal plays a pivotal role in protecting elephants and tigers while preserving many endemic species and fragile ecosystems.</p>
+
+    <h2 id="simlipal_gallery_title">Gallery</h2>
+    <div class="gallery">
+      <div>
+        <img src="https://www.mayurbhanj.nic.in/writereaddata/UploadFolder/618_Barehipani.jpg" alt="Barehipani Falls">
+        <div class="caption" id="simlipal_img1_caption">Barehipani Falls – India’s second highest waterfall</div>
+      </div>
+      <div>
+        <img src="https://media-cdn.tripadvisor.com/media/photo-s/1a/87/05/3c/simlipal-national-park.jpg" alt="Forest View">
+        <div class="caption" id="simlipal_img2_caption">Dense forest landscape of Simlipal</div>
+      </div>
+      <div>
+        <img src="https://media-cdn.tripadvisor.com/media/photo-s/14/3e/1d/3f/deer-in-simlipal.jpg" alt="Wild Deer">
+        <div class="caption" id="simlipal_img3_caption">Wildlife (deer) in natural habitat</div>
+      </div>
+    </div>
+
+    <footer id="simlipal_footer">Content compiled from Wikipedia and related official sources.</footer>
+  </div>
+</body>
+</html>
