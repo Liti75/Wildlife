@@ -1,0 +1,181 @@
+body {
+  background-color: rgb(180, 223, 180);
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: black;
+  color: white;
+  padding: 20px 0;
+  border-bottom: 5px solid black;
+}
+
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 30px;
+}
+
+header h1 {
+  font-size: 3.5rem;
+  margin: 0;
+}
+
+.language-switch {
+  display: flex;
+  gap: 10px;
+}
+
+.language-switch button {
+  padding: 6px 10px;
+  font-size: 1rem;
+  cursor: pointer;
+  border: 1px solid white;
+  background-color: transparent;
+  color: white;
+  border-radius: 4px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.language-switch button:hover {
+  background-color: white;
+  color: white;
+}
+
+.language-switch select {
+  padding: 6px 10px;
+  font-size: 1rem;
+  border-radius: 4px;
+  border: 1px solid white;
+  background-color: black;
+  color: white;
+}
+.language-switch select option {
+  color: white;
+}
+
+
+nav {
+  margin-top: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: rgb(138, 20, 138);
+  font-size: 1.5rem;
+  margin: 0 15px;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+nav a:hover,
+nav a:active {
+  color: brown;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+  padding: 40px 20px;
+}
+
+figure {
+  text-align: center;
+  max-width: 300px;
+}
+
+figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  border: 4px solid black;
+  transition: transform 0.3s, box-shadow 0.3s;
+  display: block;
+}
+
+figure img:hover {
+  transform: scale(1.03);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+figure figcaption {
+  margin-top: 10px;
+  font-size: 1.3rem;
+}
+
+figure a {
+  color: rgb(138, 20, 138);
+  text-decoration: none;
+}
+
+figure a:hover {
+  color: brown;
+}
+
+.fun-fact {
+  background: #fff3cd;
+  padding: 20px;
+  margin: 30px auto;
+  max-width: 800px;
+  border-left: 6px solid #ffc107;
+  font-size: 1.2rem;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+footer a {
+  color: #ffcc00;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  header h1 {
+    font-size: 2.5rem;
+  }
+
+  .header-top {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  nav a {
+    display: block;
+    margin: 10px 0;
+  }
+
+  .gallery {
+    gap: 20px;
+  }
+
+  .language-switch {
+    margin-top: 10px;
+    align-self: flex-end;
+  }
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.clickable-row {
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.clickable-row:hover {
+  background-color: #e6f7ff;
+}
+
