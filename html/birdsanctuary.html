@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Bird Sanctuaries in India</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    :root {
+      --primary-color: #2c3e50;
+      --secondary-color: #1abc9c;
+      --header-bg: #34495e;
+      --hover-color: #e74c3c;
+      --link-color: #2980b9;
+      --border-color: #ddd;
+      --table-bg: #ffffff;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f5f7fa;
+      color: var(--primary-color);
+    }
+
+    header {
+      background-color: var(--header-bg);
+      color: white;
+      padding: 30px 20px;
+      text-align: center;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      animation: fadeSlideIn 1.5s ease-out;
+    }
+
+    header h1 {
+      font-size: 2.8rem;
+      margin: 0;
+    }
+
+    main {
+      padding: 40px 20px;
+      display: flex;
+      justify-content: center;
+    }
+
+    table {
+      width: 100%;
+      max-width: 800px;
+      border-collapse: collapse;
+      background-color: var(--table-bg);
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    }
+
+    th, td {
+      padding: 16px 20px;
+      border-bottom: 1px solid var(--border-color);
+      font-size: 1.1rem;
+      text-align: left;
+    }
+
+    th {
+      background-color: var(--secondary-color);
+      color: white;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    td a {
+      color: var(--link-color);
+      text-decoration: none;
+      font-weight: 500;
+      transition: color 0.3s ease;
+    }
+
+    td a:hover {
+      color: var(--hover-color);
+    }
+
+    @keyframes fadeSlideIn {
+      0% {
+        opacity: 0;
+        transform: translateY(-20px);
+      }
+      100% {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 2rem;
+      }
+
+      th, td {
+        font-size: 1rem;
+        padding: 12px 14px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1 id="bs_heading">Bird Sanctuaries in India</h1>
+  </header>
+
+  <main>
+    <table>
+      <tr>
+        <th id="table_state">State / UT</th>
+        <th id="table_number">No. of Bird Sanctuaries</th>
+      </tr>
+      <tr class="clickable-row" data-href="birdSantuary/bsap.html"><td><a href="birdSantuary/bsap.html"><span id="bs_ap">Andhra Pradesh</span></a></td><td><span id="bs_ap_count">6</span></td></td></tr>
+      <tr class="clickable-row" data-href="birdSantuary/bsbi.html"><td><a href="birdSantuary/bsbi.html"><span id="bs_bi">Bihar</span></a></td><td><span id="bs_bi_count">1</span></td></tr>
+      <tr class="clickable-row" data-href="birdSantuary/bsd.html"><td><a href="birdSantuary/bsd.html"><span id="bs_dl">Delhi</span></a></td><td><span id="bs_dl_count">1</span></td></tr>
+      <tr class="clickable-row" data-href="birdSantuary/bsg.html"><td><a href="birdSantuary/bsg.html"><span id="bs_ga">Goa</span></a></td><td><span id="bs_ga_count">1</span></td></tr>
+      <tr class="clickable-row" data-href="birdSantuary/bshar.html"><td><a href="birdSantuary/bshar.html"><span id="bs_hr">Haryana</span></a></td><td><span id="bs_hr_count">4</span></td></tr>
+      <tr class="clickable-row" data-href="birdSantuary/bshp.html"><td><a href="birdSantuary/bshp.html"><span id="bs_hp">Himachal Pradesh</span></a></td><td><span id="bs_hp_count">1</span></td></tr>
+      <tr class="clickable-row" data-href="birdSantuary/bsj.html"><td><a href="birdSantuary/bsj.html"><span id="bs_jh">Jharkhand</span></a></td><td><span id="bs_jh_count">1</span></td></tr>
+      <tr class="clickable-row" data-href="birdSantuary/bsm.html"><td><a href="birdSantuary/bsm.html"><span id="bs_mz">Mizoram</span></a></td><td><span id="bs_mz_count">1</span></td></tr>
+      <tr class="clickable-row" data-href="birdSantuary/bsor.html"><td><a href="birdSantuary/bsor.html"><span id="bs_od">Odisha</span></a></td><td><span id="bs_od_count">4</span></td></tr>
+      <tr class="clickable-row" data-href="birdSantuary/bsr.html"><td><a href="birdSantuary/bsr.html"><span id="bs_rj">Rajasthan</span></a></td><td><span id="bs_rj_count">3</span></td></tr>
+      <tr class="clickable-row" data-href="birdSantuary/bsup.html"><td><a href="birdSantuary/bsup.html"><span id="bs_up">Uttar Pradesh</span></a></td><td><span id="bs_up_count">8</span></td></tr>
+      <tr class="clickable-row" data-href="birdSantuary/bsmah.html"><td><a href="birdSantuary/bsmah.html"><span id="bs_mh">Maharashtra</span></a></td><td><span id="bs_mh_count">4</span></td></tr>
+      <tr class="clickable-row" data-href="birdSantuary/bswb.html"><td><a href="birdSantuary/bswb.html"><span id="bs_wb">West Bengal</span></a></td><td><span id="bs_wb_count">3</span></td></tr>
+      <tr class="clickable-row" data-href="birdSantuary/bsgu.html"><td><a href="birdSantuary/bsgu.html"><span id="bs_gj">Gujarat</span></a></td><td><span id="bs_gj_count">5</span></td></tr>
+      <tr class="clickable-row" data-href="birdSantuary/bsk.html"><td><a href="birdSantuary/bsk.html"><span id="bs_kl">Kerala</span></a></td><td><span id="bs_kl_count">5</span></td></tr>
+      <tr class="clickable-row" data-href="birdSantuary/bstn.html"><td><a href="birdSantuary/bstn.html"><span id="bs_tn">Tamil Nadu</span></a></td><td><span id="bs_tn_count">8</span></td></tr>
+      <tr class="clickable-row" data-href="birdSantuary/bskar.html"><td><a href="birdSantuary/bskar.html"><span id="bs_ka">Karnataka</span></a></td><td><span id="bs_ka_count">8</span></td></tr>
+      <tr class="clickable-row" data-href="birdSantuary/bsu.html"><td><a href="birdSantuary/bsu.html"><span id="bs_uk">Uttrakhand</span></a></td><td><span id="bs_uk_count">2</span></td></tr>
+      <tr class="clickable-row" data-href="birdSantuary/bsl.html"><td><a href="birdSantuary/bsl.html"><span id="bs_ld">Lakshadweep</span></a></td><td><span id="bs_ld_count">2</span></td></tr>
+      <tr class="clickable-row" data-href="birdSantuary/bsjk.html"><td><a href="birdSantuary/bsjk.html"><span id="bs_jk">Jammu Kashmir</span></a></td><td><span id="bs_jk_count">2</span></td></tr>
+    </table>
+  </main>
+
+  <script src="/script/script.js"></script>
+
+</body>
+</html>

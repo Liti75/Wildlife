@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Wildlife Sanctuary</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+ <style>
+    :root {
+      --primary-color: #2c3e50;
+      --secondary-color: #16a085;
+      --table-bg: #ffffff;
+      --header-bg: #34495e;
+      --hover-color: #e74c3c;
+      --link-color: #2980b9;
+      --border-color: #ddd;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f4f6f8;
+      color: var(--primary-color);
+    }
+
+    header {
+      background-color: var(--header-bg);
+      color: white;
+      padding: 30px 20px;
+      text-align: center;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      animation: fadeSlideIn 1.5s ease-out;
+    }
+
+    header h1 {
+      font-size: 2.8rem;
+      margin: 0;
+    }
+
+    main {
+      padding: 40px 20px;
+      display: flex;
+      justify-content: center;
+    }
+
+    table {
+      width: 100%;
+      max-width: 800px;
+      border-collapse: collapse;
+      background-color: var(--table-bg);
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    }
+
+    th, td {
+      padding: 16px 20px;
+      border-bottom: 1px solid var(--border-color);
+      font-size: 1.1rem;
+      text-align: left;
+    }
+
+    th {
+      background-color: var(--secondary-color);
+      color: white;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    td a {
+      color: var(--link-color);
+      text-decoration: none;
+      font-weight: 500;
+      transition: color 0.3s ease;
+    }
+
+    td a:hover {
+      color: var(--hover-color);
+    }
+
+    @keyframes fadeSlideIn {
+      0% {
+        opacity: 0;
+        transform: translateY(-20px);
+      }
+      100% {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 2rem;
+      }
+
+      th, td {
+        font-size: 1rem;
+        padding: 12px 14px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1 id="ws_heading">Wildlife Sanctuaries of India</h1>
+  </header>
+
+  <main>
+    <table>
+      <thead>
+        <tr>
+          <th id="table_state">State / UT</th>
+          <th id="table_number">No. of Sanctuaries</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="clickable-row" data-href="WildlifeSantuary/wsap.html">
+          <td><a href="WildlifeSantuary/wsap.html"><span id="ws_andhra">Andhra Pradesh</span></a></td>
+          <td><span id="ws_andhra_count">13</span></td>
+        </tr>
+        <tr class="clickable-row" data-href="WildlifeSantuary/wso.html">
+          <td><a href="WildlifeSantuary/wso.html"><span id="ws_odisha">Odisha</span></a></td>
+          <td><span id="ws_odisha_count">19</span></td>
+        </tr>
+        <tr class="clickable-row" data-href="WildlifeSantuary/wsm.html">
+          <td><a href="WildlifeSantuary/wsm.html"><span id="ws_maharashtra">Maharashtra</span></a></td>
+          <td><span id="ws_maharashtra_count">49</span></td>
+        </tr>
+        <tr class="clickable-row" data-href="WildlifeSantuary/wsj.html">
+          <td><a href="WildlifeSantuary/wsj.html"><span id="ws_jharkhand">Jharkhand</span></a></td>
+          <td><span id="ws_jharkhand_count">11</span></td>
+        </tr>
+        <tr class="clickable-row" data-href="WildlifeSantuary/wst.html">
+          <td><a href="WildlifeSantuary/wst.html"><span id="ws_telangana">Telangana</span></a></td>
+          <td><span id="ws_telangana_count">9</span></td>
+        </tr>
+        <tr class="clickable-row" data-href="WildlifeSantuary/wswb.html">
+          <td><a href="WildlifeSantuary/wswb.html"><span id="ws_westbengal">West Bengal</span></a></td>
+          <td><span id="ws_westbengal_count">16</span></td>
+        </tr>
+        <tr class="clickable-row" data-href="WildlifeSantuary/wsa&n.html">
+          <td><a href="WildlifeSantuary/wsa&n.html"><span id="ws_andaman">Andaman & Nicobar</span></a></td>
+          <td><span id="ws_andaman_count">94</span></td>
+        </tr>
+        <tr class="clickable-row" data-href="WildlifeSantuary/wsj&k.html">
+          <td><a href="WildlifeSantuary/wsj&k.html"><span id="ws_jk">Jammu Kashmir</span></a></td>
+          <td><span id="ws_jk_count">14</span></td>
+        </tr>
+        <tr class="clickable-row" data-href="WildlifeSantuary/wsl.html">
+          <td><a href="WildlifeSantuary/wsl.html"><span id="ws_ladakh">Ladakh</span></a></td>
+          <td><span id="ws_ladakh_count">2</span></td>
+        </tr>
+        <tr class="clickable-row" data-href="WildlifeSantuary/wsg.html">
+          <td><a href="WildlifeSantuary/wsg.html"><span id="ws_goa">Goa</span></a></td>
+          <td><span id="ws_goa_count">6</span></td>
+        </tr>
+
+      </tbody>
+    </table>
+  </main>
+  
+  <script src="/script/script.js"></script>
+
+</body>
+</html>

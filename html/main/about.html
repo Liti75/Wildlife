@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About Us</title>
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    body {
+      background-color: rgb(234, 245, 234);
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: #333;
+    }
+
+    header {
+      background-color: black;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+      position: relative;
+      border-bottom: 5px solid black;
+    }
+
+    header h1 {
+      font-size: 3.5rem;
+      margin: 0;
+    }
+
+    nav {
+      margin-top: 10px;
+    }
+
+    nav a {
+      color: rgb(138, 20, 138);
+      font-size: 1.2rem;
+      margin: 0 15px;
+      text-decoration: none;
+    }
+
+    nav a:hover {
+      color: brown;
+    }
+
+    .about-section {
+      padding: 60px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    .about-section h2 {
+      font-size: 2.5rem;
+      color: #2a2a2a;
+      margin-bottom: 20px;
+      text-align: center;
+      border-bottom: 3px solid #2a2a2a;
+      display: inline-block;
+      padding-bottom: 10px;
+    }
+
+    .about-section p {
+      font-size: 1.2rem;
+      line-height: 1.8;
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+
+    .mission-box {
+      background-color: #d3ead3;
+      padding: 20px;
+      border-left: 6px solid #4CAF50;
+      margin-top: 40px;
+      border-radius: 8px;
+    }
+
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 2.5rem;
+      }
+
+      nav a {
+        display: block;
+        margin: 10px 0;
+        text-align: center;
+      }
+
+      .about-section h2 {
+        font-size: 2rem;
+      }
+
+      .about-section p {
+        font-size: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1 id="title">WILDLIFE</h1>
+    <nav>
+      <a href="../../index.html" id="home">HOME</a>
+      <a href="about.html" id="about">ABOUT US</a>
+    </nav>
+  </header>
+
+  <section class="about-section">
+    <h2 id="about-heading">About Us</h2>
+    <p id="para1">
+      At <strong>Wildlife</strong>, we are passionate about preserving the natural habitats and biodiversity of our planet.
+      Our platform aims to educate and inspire individuals by showcasing the beauty and importance of protected areas such as national parks,
+      wildlife sanctuaries, bird sanctuaries, and biosphere reserves.
+    </p>
+    <p id="para2">
+      We believe that by spreading awareness, we can encourage more people to respect and protect wildlife. 
+      Our curated galleries and informative sections provide a gateway to the diverse and rich ecosystems 
+      that are crucial for maintaining the balance of nature.
+    </p>
+    <div class="mission-box">
+      <h3 id="mission-heading">Our Mission</h3>
+      <p id="mission-text">
+        To promote wildlife conservation through education, engagement, and advocacy. We strive to highlight the wonders of the natural world
+        while encouraging sustainable interactions with our environment.
+      </p>
+    </div>
+  </section>
+
+  <script src="/script/script.js"></script>
+</body>
+</html>
