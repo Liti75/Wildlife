@@ -1,0 +1,30 @@
+{
+  "en": {
+    "bsh1": "Bird Sanctuaries in Haryana",
+    "bs1": "Sultanpur Bird Sanctuary",
+    "bs2": "Bhindawas Bird Sanctuary",
+    "bs3": "Nahar Bird Sanctuary",
+    "bs4": "Chhilchhila Bird Sanctuary"
+  },
+  "hi": {
+    "bsh1": "हरियाणा में पक्षी अभयारण्य",
+    "bs1": "सुल्तानपुर पक्षी अभयारण्य",
+    "bs2": "भिंडावास पक्षी अभयारण्य",
+    "bs3": "नाहर पक्षी अभयारण्य",
+    "bs4": "छिलछिला पक्षी अभयारण्य"
+  },
+  "or": {
+    "bsh1": "ହରିୟାଣାର ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ",
+    "bs1": "ସୁଲ୍ତାନପୁର ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ",
+    "bs2": "ଭିନ୍ଡାବାସ ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ",
+    "bs3": "ନାହାର ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ",
+    "bs4": "ଛିଲ୍ଛିଲା ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ"
+  },
+  "es": {
+    "bsh1": "Santuarios de aves en Haryana",
+    "bs1": "Santuario de aves de Sultanpur",
+    "bs2": "Santuario de aves de Bhindawas",
+    "bs3": "Santuario de aves de Nahar",
+    "bs4": "Santuario de aves de Chhilchhila"
+  }
+}

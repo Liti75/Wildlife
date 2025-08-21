@@ -1,0 +1,26 @@
+{
+  "en": {
+    "np_ap_title": "National Parks in Andhra Pradesh",
+    "np_ap_1": "Papikonda National Park",
+    "np_ap_2": "Sri Venkateswara National Park",
+    "np_ap_3": "Nagarhole National Park"
+  },
+  "hi": {
+    "np_ap_title": "आंध्र प्रदेश के राष्ट्रीय उद्यान",
+    "np_ap_1": "पापीकोंडा राष्ट्रीय उद्यान",
+    "np_ap_2": "श्री वेंकटेश्वर राष्ट्रीय उद्यान",
+    "np_ap_3": "नागरहोल राष्ट्रीय उद्यान"
+  },
+  "or": {
+    "np_ap_title": "ଆନ୍ଧ୍ର ପ୍ରଦେଶର ଜାତୀୟ ଉଦ୍ୟାନ",
+    "np_ap_1": "ପାପିକୋଣ୍ଡା ଜାତୀୟ ଉଦ୍ୟାନ",
+    "np_ap_2": "ଶ୍ରୀ ୱେଙ୍କଟେଶ୍ୱର ଜାତୀୟ ଉଦ୍ୟାନ",
+    "np_ap_3": "ନାଗରହୋଲ ଜାତୀୟ ଉଦ୍ୟାନ"
+  },
+  "es": {
+    "np_ap_title": "Parques Nacionales en Andhra Pradesh",
+    "np_ap_1": "Parque Nacional Papikonda",
+    "np_ap_2": "Parque Nacional Sri Venkateswara",
+    "np_ap_3": "Parque Nacional Nagarhole"
+  }
+}

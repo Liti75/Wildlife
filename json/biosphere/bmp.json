@@ -1,0 +1,26 @@
+{
+  "en": {
+    "bmp": "Biosphere Reserve in Madhya Pradesh",
+    "pbr": "Pachmarhi Biosphere Reserve",
+    "aabr": "Achanakmar-Amarkantak Biosphere Reserve",
+    "pbr2": "Panna Biosphere Reserve"
+  },
+  "hi": {
+    "bmp": "मध्य प्रदेश में बायोस्फीयर रिज़र्व",
+    "pbr": "पचमढ़ी बायोस्फीयर रिज़र्व",
+    "aabr": "अचनाकमार-अमरकंटक बायोस्फीयर रिज़र्व",
+    "pbr2": "पन्ना बायोस्फीयर रिज़र्व"
+  },
+  "or": {
+    "bmp": "ମଧ୍ୟପ୍ରଦେଶରେ ବାଯୋସ୍ଫିଅର୍ ରିଜର୍ଭ",
+    "pbr": "ପଚମାଡ଼ି ବାଯୋସ୍ଫିଅର୍ ରିଜର୍ଭ",
+    "aabr": "ଅଚନାକମାର-ଅମରକଣ୍ଟକ ବାଯୋସ୍ଫିଅର୍ ରିଜର୍ଭ",
+    "pbr2": "ପନ୍ନା ବାଯୋସ୍ଫିଅର୍ ରିଜର୍ଭ"
+  },
+  "es": {
+    "bmp": "Reserva de la Biosfera en Madhya Pradesh",
+    "pbr": "Reserva de la Biosfera de Pachmarhi",
+    "aabr": "Reserva de la Biosfera Achanakmar-Amarkantak",
+    "pbr2": "Reserva de la Biosfera de Panna"
+  }
+}

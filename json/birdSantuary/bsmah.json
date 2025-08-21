@@ -1,0 +1,30 @@
+{
+  "en": {
+    "bs_heading": "Bird Sanctuaries in Maharashtra",
+    "bs1": "Nandur Madhmeshwar Bird Sanctuary",
+    "bs2": "Jayakwadi Bird Sanctuary",
+    "bs3": "Great Indian Bustard Sanctuary",
+    "bs4": "Navegaon Bandh Bird Sanctuary"
+  },
+  "hi": {
+    "bs_heading": "महाराष्ट्र में पक्षी अभयारण्य",
+    "bs1": "नांदुर माधमेश्वर पक्षी अभयारण्य",
+    "bs2": "जयकवाड़ी पक्षी अभयारण्य",
+    "bs3": "ग्रेट इंडियन बस्टर्ड अभयारण्य",
+    "bs4": "नवगांव बांध पक्षी अभयारण्य"
+  },
+  "or": {
+    "bs_heading": "ମହାରାଷ୍ଟ୍ରରେ ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ",
+    "bs1": "ନନ୍ଦୁର ମାଧମେଶ୍ୱର ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ",
+    "bs2": "ଜୟକୱାଡି ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ",
+    "bs3": "ଗ୍ରେଟ୍ ଇଣ୍ଡିଆନ୍ ବସ୍ଟାର୍ଡ ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ",
+    "bs4": "ନାବେଗାଁ ବାନ୍ଧ ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ"
+  },
+  "es": {
+    "bs_heading": "Santuarios de Aves en Maharashtra",
+    "bs1": "Santuario de Aves de Nandur Madhmeshwar",
+    "bs2": "Santuario de Aves de Jayakwadi",
+    "bs3": "Santuario de Aves del Gran Avutarda India",
+    "bs4": "Santuario de Aves de Navegaon Bandh"
+  }
+}

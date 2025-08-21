@@ -1,0 +1,42 @@
+{
+  "en": {
+    "bsap_title": "Bird Sanctuaries in Andhra Pradesh",
+    "bs1": "Kolleru Bird Sanctuary",
+    "bs2": "Pulicat Lake Bird Sanctuary",
+    "bs3": "Nelapattu Bird Sanctuary",
+    "bs4": "Atapaka Bird Sanctuary",
+    "bs5": "Telineelapuram Bird Sanctuary",
+    "bs6": "Nadupuru Bird Sanctuary",
+    "bs7": "Manjira Bird Sanctuary"
+  },
+  "hi": {
+    "bsap_title": "आंध्र प्रदेश में पक्षी अभयारण्य",
+    "bs1": "कोल्लेरू पक्षी अभयारण्य",
+    "bs2": "पुलिकट झील पक्षी अभयारण्य",
+    "bs3": "नेलापट्टू पक्षी अभयारण्य",
+    "bs4": "अटापका पक्षी अभयारण्य",
+    "bs5": "तेलिनीलापुरम पक्षी अभयारण्य",
+    "bs6": "नाडुपुरु पक्षी अभयारण्य",
+    "bs7": "मंजीरा पक्षी अभयारण्य"
+  },
+  "or": {
+    "bsap_title": "ଆନ୍ଧ୍ର ପ୍ରଦେଶର ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ",
+    "bs1": "କୋଲେରୁ ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ",
+    "bs2": "ପୁଲିକଟ୍ ହ୍ରଦ ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ",
+    "bs3": "ନେଲାପାଟ୍ଟୁ ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ",
+    "bs4": "ଆଟାପକା ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ",
+    "bs5": "ତେଲିନୀଲାପୁରମ ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ",
+    "bs6": "ନାଡୁପୁରୁ ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ",
+    "bs7": "ମଂଜିରା ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ"
+  },
+  "es": {
+    "bsap_title": "Santuarios de Aves en Andhra Pradesh",
+    "bs1": "Santuario de Aves Kolleru",
+    "bs2": "Santuario de Aves del Lago Pulicat",
+    "bs3": "Santuario de Aves Nelapattu",
+    "bs4": "Santuario de Aves Atapaka",
+    "bs5": "Santuario de Aves Telineelapuram",
+    "bs6": "Santuario de Aves Nadupuru",
+    "bs7": "Santuario de Aves Manjira"
+  }
+}

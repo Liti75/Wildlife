@@ -1,0 +1,58 @@
+{
+  "en": {
+    "jh_ws_heading":"Wildlife Sanctuaries in Jharkhand",
+    "jh_ws_1": "Dalma Wildlife Sanctuary",
+    "jh_ws_2": "Gautam Buddha Wildlife Sanctuary",
+    "jh_ws_3": "Hazaribagh Wildlife Sanctuary",
+    "jh_ws_4": "Koderma Wildlife Sanctuary",
+    "jh_ws_5": "Lawalong Wildlife Sanctuary",
+    "jh_ws_6": "Topchanchi Wildlife Sanctuary",
+    "jh_ws_7": "Parasnath Wildlife Sanctuary",
+    "jh_ws_8": "Palkot Wildlife Sanctuary",
+    "jh_ws_9": "Palamu Wildlife Sanctuary",
+    "jh_ws_10": "Mahuadanr Wolf Sanctuary",
+    "jh_ws_11": "Udhwa Lake Bird Sanctuary"
+  },
+  "hi": {
+    "jh_ws_heading": "झारखंड में वन्यजीव अभयारण्य",
+    "jh_ws_1": "दलमा वन्यजीव अभयारण्य",
+    "jh_ws_2": "गौतम बुद्ध वन्यजीव अभयारण्य",
+    "jh_ws_3": "हजारीबाग वन्यजीव अभयारण्य",
+    "jh_ws_4": "कोडरमा वन्यजीव अभयारण्य",
+    "jh_ws_5": "लावालोंग वन्यजीव अभयारण्य",
+    "jh_ws_6": "टोपचांची वन्यजीव अभयारण्य",
+    "jh_ws_7": "पारसनाथ वन्यजीव अभयारण्य",
+    "jh_ws_8": "पालकोट वन्यजीव अभयारण्य",
+    "jh_ws_9": "पालामू वन्यजीव अभयारण्य",
+    "jh_ws_10": "महूआदंदर भेड़िया अभयारण्य",
+    "jh_ws_11": "उधवा झील पक्षी अभयारण्य"
+  },
+  "or": {
+    "jh_ws_heading": "ଝାରଖଣ୍ଡର ଜୀବଜନ୍ତୁ ଅଭୟାରଣ୍ୟ",
+    "jh_ws_1": "ଡାଲମା ୱାଇଲ୍ଡଲାଇଫ ସ୍ୟାଙ୍କଚୁଆରୀ",
+    "jh_ws_2": "ଗୌତମ ବୁଦ୍ଧ ୱାଇଲ୍ଡଲାଇଫ ସ୍ୟାଙ୍କଚୁଆରୀ",
+    "jh_ws_3": "ହଜାରିବାଗ ୱାଇଲ୍ଡଲାଇଫ ସ୍ୟାଙ୍କଚୁଆରୀ",
+    "jh_ws_4": "କୋଡରମା ୱାଇଲ୍ଡଲାଇଫ ସ୍ୟାଙ୍କଚୁଆରୀ",
+    "jh_ws_5": "ଲାୱାଲୋଙ୍ଗ ୱାଇଲ୍ଡଲାଇଫ ସ୍ୟାଙ୍କଚୁଆରୀ",
+    "jh_ws_6": "ଟପଚାଁଚି ୱାଇଲ୍ଡଲାଇଫ ସ୍ୟାଙ୍କଚୁଆରୀ",
+    "jh_ws_7": "ପାରସନାଥ ୱାଇଲ୍ଡଲାଇଫ ସ୍ୟାଙ୍କଚୁଆରୀ",
+    "jh_ws_8": "ପାଲକୋଟ ୱାଇଲ୍ଡଲାଇଫ ସ୍ୟାଙ୍କଚୁଆରୀ",
+    "jh_ws_9": "ପାଲାମୁ ୱାଇଲ୍ଡଲାଇଫ ସ୍ୟାଙ୍କଚୁଆରୀ",
+    "jh_ws_10": "ମହୁଆଡାନ୍ର ଓଓଲ୍ଫ ସ୍ୟାଙ୍କଚୁଆରୀ",
+    "jh_ws_11": "ଉଧ୍ୱା ଝିଲ୍ଲା ପକ୍ଷୀ ଅଭୟାରଣ୍ୟ"
+  },
+  "es": {
+    "jh_ws_heading":"Santuarios de Vida Silvestre en Jharkhand",
+    "jh_ws_1": "Santuario de Vida Silvestre Dalma",
+    "jh_ws_2": "Santuario de Vida Silvestre Gautam Buddha",
+    "jh_ws_3": "Santuario de Vida Silvestre Hazaribagh",
+    "jh_ws_4": "Santuario de Vida Silvestre Koderma",
+    "jh_ws_5": "Santuario de Vida Silvestre Lawalong",
+    "jh_ws_6": "Santuario de Vida Silvestre Topchanchi",
+    "jh_ws_7": "Santuario de Vida Silvestre Parasnath",
+    "jh_ws_8": "Santuario de Vida Silvestre Palkot",
+    "jh_ws_9": "Santuario de Vida Silvestre Palamu",
+    "jh_ws_10": "Santuario de Lobos Mahuadanr",
+    "jh_ws_11": "Santuario de Aves del Lago Udhwa"
+  }
+}

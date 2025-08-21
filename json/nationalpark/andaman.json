@@ -1,0 +1,54 @@
+{
+  "en": {
+    "andaman_title": "Andaman & Nicobar National Parks",
+    "andaman_heading": "Andaman & Nicobar National Parks",
+    "andaman_1": "Campbell Bay National Park",
+    "andaman_2": "Galathea National Park",
+    "andaman_3": "Mahatma Gandhi Marine National Park",
+    "andaman_4": "Middle Button Island National Park",
+    "andaman_5": "Mount Harriet National Park",
+    "andaman_6": "North Button Island National Park",
+    "andaman_7": "Rani Jhansi Marine National Park",
+    "andaman_8": "Saddle Peak National Park",
+    "andaman_9": "South Button Island National Park"
+  },
+  "hi":{
+    "andaman_title": "अंडमान और निकोबार राष्ट्रीय उद्यान",
+    "andaman_heading": "अंडमान और निकोबार राष्ट्रीय उद्यान",
+    "andaman_1": "कैंपबेल बे राष्ट्रीय उद्यान",
+    "andaman_2": "गैलेथिया राष्ट्रीय उद्यान",
+    "andaman_3": "महात्मा गांधी समुद्री राष्ट्रीय उद्यान",
+    "andaman_4": "मिडल बटन द्वीप राष्ट्रीय उद्यान",
+    "andaman_5": "माउंट हैरियट राष्ट्रीय उद्यान",
+    "andaman_6": "नॉर्थ बटन द्वीप राष्ट्रीय उद्यान",
+    "andaman_7": "रानी झांसी समुद्री राष्ट्रीय उद्यान",
+    "andaman_8": "सैडल पीक राष्ट्रीय उद्यान",
+    "andaman_9": "साउथ बटन द्वीप राष्ट्रीय उद्यान"
+  },
+  "or": {
+    "andaman_title": "ଆଣ୍ଡମାନ୍ ଓ ନିକୋବାର୍ ଜାତୀୟ ଉଦ୍ୟାନ",
+    "andaman_heading": "ଆଣ୍ଡମାନ୍ ଓ ନିକୋବାର୍ ଜାତୀୟ ଉଦ୍ୟାନ",
+    "andaman_1": "କ୍ୟାମ୍ପବେଲ ବେ ଜାତୀୟ ଉଦ୍ୟାନ",
+    "andaman_2": "ଗାଲାଥିଆ ଜାତୀୟ ଉଦ୍ୟାନ",
+    "andaman_3": "ମହାତ୍ମା ଗାନ୍ଧୀ ସାମୁଦ୍ରିକ ଜାତୀୟ ଉଦ୍ୟାନ",
+    "andaman_4": "ମିଡଲ ବଟନ୍ ଦ୍ବୀପ ଜାତୀୟ ଉଦ୍ୟାନ",
+    "andaman_5": "ମାଉଣ୍ଟ ହ୍ୟାରିଅଟ୍ ଜାତୀୟ ଉଦ୍ୟାନ",
+    "andaman_6": "ନୋର୍ଥ ବଟନ୍ ଦ୍ବୀପ ଜାତୀୟ ଉଦ୍ୟାନ",
+    "andaman_7": "ରାଣୀ ଝାଂସୀ ସାମୁଦ୍ରିକ ଜାତୀୟ ଉଦ୍ୟାନ",
+    "andaman_8": "ସ୍ୟାଡଲ ପିକ୍ ଜାତୀୟ ଉଦ୍ୟାନ",
+    "andaman_9": "ସାଉଥ ବଟନ୍ ଦ୍ବୀପ ଜାତୀୟ ଉଦ୍ୟାନ"
+  },
+  "es": {
+    "andaman_title": "Parques Nacionales de Andamán y Nicobar",
+    "andaman_heading": "Parques Nacionales de Andamán y Nicobar",
+    "andaman_1": "Parque Nacional Campbell Bay",
+    "andaman_2": "Parque Nacional Galathea",
+    "andaman_3": "Parque Nacional Marino Mahatma Gandhi",
+    "andaman_4": "Parque Nacional Middle Button Island",
+    "andaman_5": "Parque Nacional Mount Harriet",
+    "andaman_6": "Parque Nacional North Button Island",
+    "andaman_7": "Parque Nacional Marino Rani Jhansi",
+    "andaman_8": "Parque Nacional Saddle Peak",
+    "andaman_9": "Parque Nacional South Button Island"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "en": {
+    "ts_heading": "Telangana National Parks",
+    "ts_np1": "Kasu Brahmananda Reddy National Park",
+    "ts_np2": "Mahavir Harina Vanasthali National Park",
+    "ts_np3": "Mrugavani National Park"
+  },
+  "hi": {
+    "ts_heading": "तेलंगाना राष्ट्रीय उद्यान",
+    "ts_np1": "कासु ब्रह्मानंद रेड्डी राष्ट्रीय उद्यान",
+    "ts_np2": "महावीर हरिण वनस्थली राष्ट्रीय उद्यान",
+    "ts_np3": "मृगवानी राष्ट्रीय उद्यान"
+  },
+  "or": {
+    "ts_heading": "ତେଲେଙ୍ଗାନା ଜାତୀୟ ଉଦ୍ୟାନ",
+    "ts_np1": "କାସୁ ବ୍ରହ୍ମାନନ୍ଦ ରେଡ୍ଡି ଜାତୀୟ ଉଦ୍ୟାନ",
+    "ts_np2": "ମହାବୀର ହରିଣ ବନସ୍ଥଳୀ ଜାତୀୟ ଉଦ୍ୟାନ",
+    "ts_np3": "ମୃଗବାନୀ ଜାତୀୟ ଉଦ୍ୟାନ"
+  },
+  "es": {
+    "ts_heading": "Parques Nacionales de Telangana",
+    "ts_np1": "Parque Nacional Kasu Brahmananda Reddy",
+    "ts_np2": "Parque Nacional Mahavir Harina Vanasthali",
+    "ts_np3": "Parque Nacional Mrugavani"
+  }
+}

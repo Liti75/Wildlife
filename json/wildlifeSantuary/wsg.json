@@ -1,0 +1,39 @@
+{
+    "en":{
+        "goa_ws_heading": "Wildlife Sanctuaries in Goa",
+        "goa_ws_1": "Bhagwan Mahavir Wildlife Sanctuary",
+        "goa_ws_2": "Bondla Wildlife Sanctuary",
+        "goa_ws_3": "Cotigao Wildlife Sanctuary",
+        "goa_ws_4": "Molem Wildlife Sanctuary",
+        "goa_ws_5": "Netravali Wildlife Sanctuary",
+        "goa_ws_6": "Mhadei Wildlife Sanctuary"
+      },
+    "hi":{
+    "goa_ws_heading": "गोवा में वन्यजीव अभयारण्य",
+    "goa_ws_1": "भगवान महावीर वन्यजीव अभयारण्य",
+    "goa_ws_2": "बोंडला वन्यजीव अभयारण्य",
+    "goa_ws_3": "कोटिगाओ वन्यजीव अभयारण्य",
+    "goa_ws_4": "मोलेम वन्यजीव अभयारण्य",
+    "goa_ws_5": "नेत्रावली वन्यजीव अभयारण्य",
+    "goa_ws_6": "म्हादेई वन्यजीव अभयारण्य"
+    },
+    "or":{
+        "goa_ws_heading": "ଗୋଆରେ ବନ୍ୟଜନ୍ତୁ ଅଭୟାରଣ୍ୟ",
+        "goa_ws_1": "ଭଗବାନ ମହାବୀର ବନ୍ୟଜନ୍ତୁ ଅଭୟାରଣ୍ୟ",
+        "goa_ws_2": "ବୋଣ୍ଡଲା ବନ୍ୟଜନ୍ତୁ ଅଭୟାରଣ୍ୟ",
+        "goa_ws_3": "କୋଟିଗାଓ ବନ୍ୟଜନ୍ତୁ ଅଭୟାରଣ୍ୟ",
+        "goa_ws_4": "ମୋଲେମ ବନ୍ୟଜନ୍ତୁ ଅଭୟାରଣ୍ୟ",
+        "goa_ws_5": "ନେତ୍ରାବଳି ବନ୍ୟଜନ୍ତୁ ଅଭୟାରଣ୍ୟ",
+        "goa_ws_6": "ମହାଦେଇ ବନ୍ୟଜନ୍ତୁ ଅଭୟାରଣ୍ୟ"
+    },
+    "es":{
+  "goa_ws_heading": "Santuarios de Vida Silvestre en Goa",
+  "goa_ws_1": "Santuario de Vida Silvestre Bhagwan Mahavir",
+  "goa_ws_2": "Santuario de Vida Silvestre Bondla",
+  "goa_ws_3": "Santuario de Vida Silvestre Cotigao",
+  "goa_ws_4": "Santuario de Vida Silvestre Molem",
+  "goa_ws_5": "Santuario de Vida Silvestre Netravali",
+  "goa_ws_6": "Santuario de Vida Silvestre Mhadei"
+}
+}
+

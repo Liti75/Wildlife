@@ -1,0 +1,26 @@
+{
+  "en": {
+    "brtn": "Biosphere Reserve in Tamil Nadu",
+    "br1": "Gulf of Mannar Biosphere Reserve",
+    "br2": "Nilgiri Biosphere Reserve",
+    "br3": "Agasthyamalai Biosphere Reserve"
+  },
+  "hi": {
+    "brtn": "तमिलनाडु में बायोस्फीयर रिज़र्व",
+    "br1": "गोल्फ ऑफ मन्नार बायोस्फीयर रिज़र्व",
+    "br2": "नीलगिरी बायोस्फीयर रिज़र्व",
+    "br3": "अगस्त्यमलाई बायोस्फीयर रिज़र्व"
+  },
+  "or": {
+    "brtn": "ତମିଲନାଡୁରେ ଜୀବମଣ୍ଡଳ ସଂରକ୍ଷଣ କ୍ଷେତ୍ର",
+    "br1": "ଗଲ୍ଫ୍ ଅଫ୍ ମାନ୍ନାର ବାଯୋସ୍ଫିଅର୍ ରିଜର୍ଭ",
+    "br2": "ନିଲଗିରି ବାଯୋସ୍ଫିଅର୍ ରିଜର୍ଭ",
+    "br3": "ଅଗସ୍ଥ୍ୟମଲାଇ ବାଯୋସ୍ଫିଅର୍ ରିଜର୍ଭ"
+  },
+  "es": {
+    "brtn": "Reserva de la Biosfera en Tamil Nadu",
+    "br1": "Reserva de la Biosfera del Golfo de Mannar",
+    "br2": "Reserva de la Biosfera de Nilgiri",
+    "br3": "Reserva de la Biosfera de Agasthyamalai"
+  }
+}

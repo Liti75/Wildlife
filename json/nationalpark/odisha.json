@@ -1,0 +1,26 @@
+{
+  "en": {
+    "od_np_title": "Odisha National Parks",
+    "od_np_heading": "Odisha National Parks",
+    "od_np_1": "Bhitarkanika National Park",
+    "od_np_2": "Simlipal National Park"
+  },
+  "hi": {
+    "od_np_title": "ओडिशा के राष्ट्रीय उद्यान",
+    "od_np_heading": "ओडिशा के राष्ट्रीय उद्यान",
+    "od_np_1": "भीतरकनिका राष्ट्रीय उद्यान",
+    "od_np_2": "सिमिलिपाल राष्ट्रीय उद्यान"
+  },
+  "or": {
+    "od_np_title": "ଓଡିଶା ରାଷ୍ଟ୍ରୀୟ ଉଦ୍ୟାନ",
+    "od_np_heading": "ଓଡିଶା ରାଷ୍ଟ୍ରୀୟ ଉଦ୍ୟାନ",
+    "od_np_1": "ଭିତରକଣିକା ଜାତୀୟ ଉଦ୍ୟାନ",
+    "od_np_2": "ସିମିଲିପାଲ ଜାତୀୟ ଉଦ୍ୟାନ"
+  },
+  "es": {
+    "od_np_title": "Parques Nacionales de Odisha",
+    "od_np_heading": "Parques Nacionales de Odisha",
+    "od_np_1": "Parque Nacional Bhitarkanika",
+    "od_np_2": "Parque Nacional Simlipal"
+  }
+}

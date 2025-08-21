@@ -1,0 +1,42 @@
+{
+  "en": {
+    "wb_np_title": "West Bengal National Parks",
+    "wb_np_heading": "West Bengal National Parks",
+    "wb_np_1": "Gorumara National Park",
+    "wb_np_2": "Jaldapara National Park",
+    "wb_np_3": "Neora Valley National Park",
+    "wb_np_4": "Singalila National Park",
+    "wb_np_5": "Sundarbans National Park",
+    "wb_np_6": "Buxa National Park and Tiger Reserve"
+  },
+  "hi": {
+    "wb_np_title": "पश्चिम बंगाल राष्ट्रीय उद्यान",
+    "wb_np_heading": "पश्चिम बंगाल राष्ट्रीय उद्यान",
+    "wb_np_1": "गोरुमारा राष्ट्रीय उद्यान",
+    "wb_np_2": "जलदापारा राष्ट्रीय उद्यान",
+    "wb_np_3": "नीओरा वैली राष्ट्रीय उद्यान",
+    "wb_np_4": "सिंगालीला राष्ट्रीय उद्यान",
+    "wb_np_5": "सुंदरबन राष्ट्रीय उद्यान",
+    "wb_np_6": "बक्सर राष्ट्रीय उद्यान और बाघ अभयारण्य"
+  },
+  "or": {
+    "wb_np_title": "ପଶ୍ଚିମ ବଙ୍ଗ ଜାତୀୟ ଉଦ୍ୟାନ",
+    "wb_np_heading": "ପଶ୍ଚିମ ବଙ୍ଗ ଜାତୀୟ ଉଦ୍ୟାନ",
+    "wb_np_1": "ଗୋରୁମାରା ଜାତୀୟ ଉଦ୍ୟାନ",
+    "wb_np_2": "ଜଲଦାପାରା ଜାତୀୟ ଉଦ୍ୟାନ",
+    "wb_np_3": "ନିଓରା ଭ୍ୟାଲି ଜାତୀୟ ଉଦ୍ୟାନ",
+    "wb_np_4": "ସିଙ୍ଗାଲିଲା ଜାତୀୟ ଉଦ୍ୟାନ",
+    "wb_np_5": "ସୁନ୍ଦରବନ ଜାତୀୟ ଉଦ୍ୟାନ",
+    "wb_np_6": "ବୁକ୍ସା ଜାତୀୟ ଉଦ୍ୟାନ ଓ ବାଘ ଅଭୟାରଣ୍ୟ"
+  },
+  "es": {
+    "wb_np_title": "Parques Nacionales de Bengala Occidental",
+    "wb_np_heading": "Parques Nacionales de Bengala Occidental",
+    "wb_np_1": "Parque Nacional Gorumara",
+    "wb_np_2": "Parque Nacional Jaldapara",
+    "wb_np_3": "Parque Nacional Neora Valley",
+    "wb_np_4": "Parque Nacional Singalila",
+    "wb_np_5": "Parque Nacional Sundarbans",
+    "wb_np_6": "Parque Nacional y Reserva de Tigres de Buxa"
+  }
+}

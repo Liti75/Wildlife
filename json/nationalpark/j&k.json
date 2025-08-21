@@ -1,0 +1,26 @@
+{
+  "en": {
+    "jk_np_heading": "Jammu & Kashmir National Parks",
+    "dachigam": "Dachigam National Park",
+    "kishtwar": "Kishtwar National Park",
+    "kazinag": "Kazinag National Park"
+  },
+  "hi": {
+    "jk_np_heading": "जम्मू और कश्मीर के राष्ट्रीय उद्यान",
+    "dachigam": "दाचिगाम राष्ट्रीय उद्यान",
+    "kishtwar": "किश्तवाड़ राष्ट्रीय उद्यान",
+    "kazinag": "काज़िनाग राष्ट्रीय उद्यान"
+  },
+  "or": {
+    "jk_np_heading": "ଜମ୍ମୁ ଏବଂ କଶ୍ମୀର ରାଷ୍ଟ୍ରୀୟ ଉଦ୍ୟାନ",
+    "dachigam": "ଡାଚିଗାମ ଜାତୀୟ ଉଦ୍ୟାନ",
+    "kishtwar": "କିଷ୍ଟୱାର ଜାତୀୟ ଉଦ୍ୟାନ",
+    "kazinag": "କାଜିନାଗ ଜାତୀୟ ଉଦ୍ୟାନ"
+  },
+  "es": {
+    "jk_np_heading": "Parques Nacionales de Jammu y Cachemira",
+    "dachigam": "Parque Nacional Dachigam",
+    "kishtwar": "Parque Nacional Kishtwar",
+    "kazinag": "Parque Nacional Kazinag"
+  }
+}

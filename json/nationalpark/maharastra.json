@@ -1,0 +1,38 @@
+{
+  "en": {
+    "mh_heading": "Maharashtra National Parks",
+    "mh_np1": "Tadoba National Park",
+    "mh_np2": "Chandoli National Park",
+    "mh_np3": "Gugamal National Park",
+    "mh_np4": "Sanjay Gandhi National Park",
+    "mh_np5": "Navegaon National Park",
+    "mh_np6": "Pench National Park"
+  },
+  "hi": {
+    "mh_heading": "महाराष्ट्र के राष्ट्रीय उद्यान",
+    "mh_np1": "ताडोबा राष्ट्रीय उद्यान",
+    "mh_np2": "चांदौली राष्ट्रीय उद्यान",
+    "mh_np3": "गुगामल राष्ट्रीय उद्यान",
+    "mh_np4": "संजय गांधी राष्ट्रीय उद्यान",
+    "mh_np5": "नवगांव राष्ट्रीय उद्यान",
+    "mh_np6": "पेंच राष्ट्रीय उद्यान"
+  },
+  "or": {
+    "mh_heading": "ମହାରାଷ୍ଟ୍ର ଜାତୀୟ ଉଦ୍ୟାନ",
+    "mh_np1": "ତାଡୋବା ଜାତୀୟ ଉଦ୍ୟାନ",
+    "mh_np2": "ଚାନ୍ଦୋଲି ଜାତୀୟ ଉଦ୍ୟାନ",
+    "mh_np3": "ଗୁଗାମାଲ ଜାତୀୟ ଉଦ୍ୟାନ",
+    "mh_np4": "ସଂଜୟ ଗାନ୍ଧୀ ଜାତୀୟ ଉଦ୍ୟାନ",
+    "mh_np5": "ନବଗାଁ ଜାତୀୟ ଉଦ୍ୟାନ",
+    "mh_np6": "ପେଞ୍ଚ ଜାତୀୟ ଉଦ୍ୟାନ"
+  },
+  "es": {
+    "mh_heading": "Parques Nacionales de Maharashtra",
+    "mh_np1": "Parque Nacional Tadoba",
+    "mh_np2": "Parque Nacional Chandoli",
+    "mh_np3": "Parque Nacional Gugamal",
+    "mh_np4": "Parque Nacional Sanjay Gandhi",
+    "mh_np5": "Parque Nacional Navegaon",
+    "mh_np6": "Parque Nacional Pench"
+  }
+}
