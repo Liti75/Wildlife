@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wildlife</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <div class="header-top">
+      <h1 id="title">WILDLIFE</h1>
+      <div class="language-switch">
+        <select id="languageSelect" onchange="handleLanguageChange()">
+          <option value="en">English</option>
+          <option value="hi">हिन्दी</option>
+          <option value="es">Español</option>
+          <option value="or">ଓଡ଼ିଆ</option>
+        </select>
+      </div>
+    </div>
+    <nav>
+      <a href="#" id="home">HOME</a>
+      <a href="html/main/about.html" id="about">ABOUT US</a>
+      <a href="#fun" id="fun_link">FUN FACTS</a>
+      <a href="#contact" id="contact_link">CONTACT</a>
+      <a href="html/main/post.html" id="post">POST</a>
+    </nav>
+  </header>
+
+  <main class="gallery">
+    <figure>
+      <a href="html/nationalpark.html">
+        <img src="https://d368ufu7xgcs86.cloudfront.net/article-4-10.jpg" alt="National Park">
+      </a>
+      <figcaption><a href="html/nationalpark.html" id="np">National Park</a></figcaption>
+    </figure>
+
+    <figure>
+      <a href="html/wildlifesanctuary.html">
+        <img src="https://img.freepik.com/free-photo/american-jaguar-nature-habitat-south-american-jungle_475641-1065.jpg" alt="Wildlife Sanctuary">
+      </a>
+      <figcaption><a href="html/wildlifesanctuary.html" id="ws">Wildlife Sanctuary</a></figcaption>
+    </figure>
+
+    <figure>
+      <a href="html/birdsanctuary.html">
+        <img src="https://d368ufu7xgcs86.cloudfront.net/20397-1572948358.jpg" alt="Bird Sanctuary">
+      </a>
+      <figcaption><a href="html/birdsanctuary.html" id="bs">Bird Sanctuary</a></figcaption>
+    </figure>
+
+    <figure>
+      <a href="html/biosphere.html">
+        <img src="https://img.freepik.com/premium-photo/big-herd-wildebeest-is-about-mara-river_265142-6401.jpg" alt="Biosphere Reserve">
+      </a>
+      <figcaption><a href="html/biosphere.html" id="br">Biosphere Reserve</a></figcaption>
+    </figure>
+  </main>
+
+  <section id="fun" class="fun-fact">
+    <h2 id="fact_heading">Did You Know?</h2>
+    <p id="fact">Loading a wild fact...</p>
+  </section>
+
+  <footer id="contact">
+    <p id="email_us">Have feedback or questions? <a href="mailto:wildlifeinfo@example.com">Email Us</a></p>
+  </footer>
+
+  <script src="/script/script.js"></script>
+</body>
+</html>
